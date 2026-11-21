@@ -1,2 +1,2 @@
-# semanti
-this is my first git repositary
+# First Git
+this is my first git repository
